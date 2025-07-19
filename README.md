@@ -56,7 +56,7 @@ Também participo de eventos como o **NLW (Next Level Week)** e estou de olho no
 
 ## 🌐 Vamos nos conectar!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrina-souza-271021198/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devsabrinasouza/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahAlves)
 
 ---
