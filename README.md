@@ -46,6 +46,7 @@ Participo frequentemente de eventos como **NLW da Rocketseat**, **LinuxTips**, *
 - 🎮 Gamer nas horas vagas
 - 🎬 Amante de filmes e séries
 - 💡 Curiosa por novas tecnologias
+- 🏆 Ganhadora da 6ª Edição do Hackathon 2019 (2º semestre) do SENAI Jandira, com desafio proposto pelas empresas PRIMI Tecnologia e ISS - Intelligent Security Systems
 
 ---
 
